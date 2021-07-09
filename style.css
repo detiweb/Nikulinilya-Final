@@ -1,0 +1,46 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+background: url(a3.jpg);
+}
+h1 {
+ 	text-align: center;
+ 	text-decoration: underline;
+ 	color: white;
+ }
+ .a{
+ 	margin-left: 230px;
+ 	color: white;
+ }
+ .b{
+ 	margin-left: 10px;
+ 	color: white;
+ }
+ .c{
+ 	margin-left: 10px;
+ 	color: white;
+ }
+ .f{
+	margin-left: 10px;
+	color: white;
+ }
+ 
+ p{
+ 	color: white;
+ 	background: black;
+ } 
+  .d{
+  	margin-left: 345px;
+  	margin-right: 397px;
+  }
+
+ footer img{
+ 	width: 30px;
+ 	margin: 5px;
+ }
+ .r{
+ 	display: inline-block;
+ }
+ .t{
+ 	margin-left: 342px;
+ }
+
